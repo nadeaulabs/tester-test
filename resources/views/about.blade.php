@@ -1,7 +1,3 @@
-@extends('layouts.app')
-
-@section('content')
-<div class="container">
-<h1>yeah test</h1>
-</div>
-@endsection
+<x-layout>
+    <h1>Hi from the About page</h1>
+</layout>
