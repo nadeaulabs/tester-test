@@ -1,3 +1,3 @@
 <x-layout>
     <h1>Hi from the Contact page</h1>
-</layout>
+</x-layout>
